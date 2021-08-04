@@ -1,0 +1,3 @@
+HP;U827I;1892,100000;2;0;Intel Core i5
+Dell;ThinkCenter;1138,830000;4;0;Intel Core i3
+Lenovo;Legion;1658,470000;8;0;Intel Core i3
